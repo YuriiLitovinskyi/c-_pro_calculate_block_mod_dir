@@ -27,9 +27,9 @@ int main(){
 		direction += 8;
 	};
 	
-	cout<<"Block: "<<block<<endl;
-	cout<<"Module: "<<module<<endl;
-	cout<<"Direction: "<<direction<<endl;
+	cout<<"Block: \t\t"<<block<<endl;
+	cout<<"Module: \t"<<module<<endl;
+	cout<<"Direction: \t"<<direction<<endl;
 	
 	cout<<"\n";	
 	
